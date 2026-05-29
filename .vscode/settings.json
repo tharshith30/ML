@@ -1,5 +1,22 @@
 {
     "python.analysis.autoImportCompletions": true,
+
+    "python.analysis.indexing": true,
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+
+    "editor.suggestOnTriggerCharacters": true,
+
+    "editor.inlineSuggest.enabled": false,
+
     "editor.autoClosingBrackets": "always",
-    "editor.autoClosingOvertype": "never"
+    "editor.autoClosingOvertype": "never",
+
+    "editor.minimap.enabled": false,
+
+    "notebook.output.textLineLimit": 200
 }
